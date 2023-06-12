@@ -12,7 +12,7 @@ This lesson introduces various prompting techniques that can help improve accura
 https://www.promptingguide.ai/techniques
 
 ### Prerequiste
-You required Phython in your system fyou can follow this (https://www.python.org)<br/>
+You required Phython in your system. you can follow this (https://www.python.org)<br/>
 OpenAi API key required to get you can follow this link (https://platform.openai.com/account/api-keys)<br/>
 Install Jupyter Notebook to run the code
 
